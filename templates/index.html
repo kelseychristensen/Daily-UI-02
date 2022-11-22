@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block content %}
+
+<h1>{{ print }}</h1>
+
+<div class="content">
+<div class="jumbotron">
+
+<form>
+
+  <div class="row">
+    <div class="col">
+			{{ form.name.label }}
+			{{ form.name }}
+	</div></div>
+	<div class="row">
+    <div class="col">
+			{{ form.card.label }}
+			{{ form.card }}
+    </div></div>
+	<div class="row">
+	<div class="col-md-6">
+			{{ form.expiration.label }} {{ form.expiration }}</div>
+		<div class="col-md-6">
+			{{ form.csc.label }}{{ form.csc }}
+    </div>
+  </div><br>
+
+	<button type="button" href="{{ url_for('success') }}" class="btn btn-dark">Submit</button>
+
+</form>
+
+
+{% endblock %}
+

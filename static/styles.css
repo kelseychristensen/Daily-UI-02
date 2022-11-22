@@ -1,0 +1,28 @@
+body, html {
+    height: 100vh;
+}
+
+body {
+    background: linear-gradient(to right, #6D9886, #C0D8C0);
+
+}
+
+.jumbotron {
+    height: 100%;
+    background: white;
+    filter: drop-shadow(0 0 1rem rgb(0,0,0,25%));
+}
+
+.content {
+    margin: auto;
+    padding: 20vh 0;
+    width: 500px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 10px ;
+}
+
+
+
