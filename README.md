@@ -13,7 +13,7 @@ challange.</a></p>
 
 ## Screenshots
 
-![Home Page](credit card form.PNG "Home Page")
+![Home Page](https://github.com/kelseychristensen/Daily-UI-Day-02-Repo/blob/main/credit%20card%20form.PNG "Home Page")
 
 
 ## My process
