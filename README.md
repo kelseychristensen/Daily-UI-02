@@ -9,7 +9,7 @@ challange.</a></p>
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-02 "Daily UI Day 02 Repo")
-- [Dribbble](https://dribbble.com/shots/19952876-Daily-UI-Day-02-Credit-Card-Form "Dribbble Link")
+- [Dribbble](https://dribbble.com/shots/20017803-Daily-UI-Day-002-Credit-Card-Form "Dribbble Link")
 
 ## Screenshots
 
